@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.Cont {
+  background-color: antiquewhite;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 40px;
+  color: #000000;
+  font-family: 'Roboto';
+}
